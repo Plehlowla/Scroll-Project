@@ -1,5 +1,5 @@
 # Scroll Project
 
-![scrollProject](scrollProject.png);
+![scrollProject](scrollProject.png)
  
 # https://plehlowla.github.io/Scroll-Project/
